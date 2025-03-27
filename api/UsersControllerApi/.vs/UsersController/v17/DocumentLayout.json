@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\services\\userservices\\idbuserschecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:services\\userservices\\idbuserschecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\services\\userservices\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:services\\userservices\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\services\\userservices\\iuserdbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:services\\userservices\\iuserdbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\services\\userservices\\userdbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:services\\userservices\\userdbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\services\\userservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:services\\userservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\services\\userservices\\dbuserschecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:services\\userservices\\dbuserschecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\services\\manualservices\\idbmanualservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:services\\manualservices\\idbmanualservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\services\\manualservices\\dbmanualservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:services\\manualservices\\dbmanualservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\services\\encrytionservice\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:services\\encrytionservice\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\services\\encrytionservice\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:services\\encrytionservice\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\models\\internalmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:models\\internalmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\certs\\paytequtils.key||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:certs\\paytequtils.key||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\certs\\paytequtils.crt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:certs\\paytequtils.crt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|c:\\users\\pc\\documents\\work\\usercontroller-main\\api\\userscontrollerapi\\scripts\\storedprocedures\\sp_usercontrols.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{43DCF7A6-2E8C-4050-97F0-A4F92FC92D51}|UsersController.csproj|solutionrelative:scripts\\storedprocedures\\sp_usercontrols.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwDkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:03:34.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:03:18.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDBUsersChecks.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\IDBUsersChecks.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices\\IDBUsersChecks.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\IDBUsersChecks.cs",
+              "RelativeToolTip": "Services\\UserServices\\IDBUsersChecks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:54:55.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T20:37:41.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\UserServices.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices\\UserServices.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\UserServices.cs",
+              "RelativeToolTip": "Services\\UserServices\\UserServices.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAAwP4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:55:05.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserDBServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\IUserDBServices.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices\\IUserDBServices.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\IUserDBServices.cs",
+              "RelativeToolTip": "Services\\UserServices\\IUserDBServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:54:57.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDBServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\UserDBServices.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices\\UserDBServices.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\UserDBServices.cs",
+              "RelativeToolTip": "Services\\UserServices\\UserDBServices.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAuwDwBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:18:08.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\IUserServices.cs",
+              "RelativeToolTip": "Services\\UserServices\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:54:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBUsersChecks.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\DBUsersChecks.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices\\DBUsersChecks.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\UserServices\\DBUsersChecks.cs",
+              "RelativeToolTip": "Services\\UserServices\\DBUsersChecks.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowKAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:53:31.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDBManualService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\ManualServices\\IDBManualService.cs",
+              "RelativeDocumentMoniker": "Services\\ManualServices\\IDBManualService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\ManualServices\\IDBManualService.cs",
+              "RelativeToolTip": "Services\\ManualServices\\IDBManualService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:53:26.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBManualService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\ManualServices\\DBManualService.cs",
+              "RelativeDocumentMoniker": "Services\\ManualServices\\DBManualService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\ManualServices\\DBManualService.cs",
+              "RelativeToolTip": "Services\\ManualServices\\DBManualService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:52:46.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\EncrytionService\\IEncryptionService.cs",
+              "RelativeDocumentMoniker": "Services\\EncrytionService\\IEncryptionService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\EncrytionService\\IEncryptionService.cs",
+              "RelativeToolTip": "Services\\EncrytionService\\IEncryptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:52:42.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\EncrytionService\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "Services\\EncrytionService\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Services\\EncrytionService\\EncryptionService.cs",
+              "RelativeToolTip": "Services\\EncrytionService\\EncryptionService.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:51:35.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InternalModels.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Models\\InternalModels.cs",
+              "RelativeDocumentMoniker": "Models\\InternalModels.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Models\\InternalModels.cs",
+              "RelativeToolTip": "Models\\InternalModels.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv0MAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:50:37.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "Controllers\\ServicesController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:09:00.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T22:47:41.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T23:02:49.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "paytequtils.key",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\certs\\paytequtils.key",
+              "RelativeDocumentMoniker": "certs\\paytequtils.key",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\certs\\paytequtils.key",
+              "RelativeToolTip": "certs\\paytequtils.key",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T22:48:35.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "paytequtils.crt",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\certs\\paytequtils.crt",
+              "RelativeDocumentMoniker": "certs\\paytequtils.crt",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\certs\\paytequtils.crt",
+              "RelativeToolTip": "certs\\paytequtils.crt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-03-26T22:48:33.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "sp_UserControls.sql",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Scripts\\StoredProcedures\\sp_UserControls.sql",
+              "RelativeDocumentMoniker": "Scripts\\StoredProcedures\\sp_UserControls.sql",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Scripts\\StoredProcedures\\sp_UserControls.sql",
+              "RelativeToolTip": "Scripts\\StoredProcedures\\sp_UserControls.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-26T20:34:18.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

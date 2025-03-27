@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "BaseProjectApi.Controllers.ServicesController",
+    "Method": "PingMe",
+    "RelativePath": "api/Services/Ping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BaseProjectApi.Controllers.ServicesController",
+    "Method": "UsersControl",
+    "RelativePath": "api/Services/UsersControl",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uiReq",
+        "Type": "BaseProjectApi.Models.RequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
