@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\WORK\\UserController-main\\api\\UsersControllerApi\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwDkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwDkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T23:03:34.262Z",
               "EditorCaption": ""
@@ -119,8 +119,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T23:03:18.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T23:03:18.12Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "Services\\UserServices\\IDBUsersChecks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:54:55.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:54:55.862Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-26T20:37:41.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T20:37:41.823Z"
             },
             {
               "$type": "Document",
@@ -158,8 +155,7 @@
               "RelativeToolTip": "Services\\UserServices\\UserServices.cs",
               "ViewState": "AgIAABABAAAAAAAAAAAAwP4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:55:05.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:55:05.612Z"
             },
             {
               "$type": "Document",
@@ -171,8 +167,7 @@
               "RelativeToolTip": "Services\\UserServices\\IUserDBServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:54:57.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:54:57.51Z"
             },
             {
               "$type": "Document",
@@ -184,8 +179,7 @@
               "RelativeToolTip": "Services\\UserServices\\UserDBServices.cs",
               "ViewState": "AgIAAD0BAAAAAAAAAAAuwDwBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T08:18:08.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T08:18:08.346Z"
             },
             {
               "$type": "Document",
@@ -197,8 +191,7 @@
               "RelativeToolTip": "Services\\UserServices\\IUserServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:54:59.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:54:59.954Z"
             },
             {
               "$type": "Document",
@@ -210,8 +203,7 @@
               "RelativeToolTip": "Services\\UserServices\\DBUsersChecks.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAowKAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:53:31.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:53:31.19Z"
             },
             {
               "$type": "Document",
@@ -223,8 +215,7 @@
               "RelativeToolTip": "Services\\ManualServices\\IDBManualService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:53:26.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:53:26.884Z"
             },
             {
               "$type": "Document",
@@ -236,8 +227,7 @@
               "RelativeToolTip": "Services\\ManualServices\\DBManualService.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAwwFEAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:52:46.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:52:46.407Z"
             },
             {
               "$type": "Document",
@@ -249,8 +239,7 @@
               "RelativeToolTip": "Services\\EncrytionService\\IEncryptionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:52:42.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:52:42.002Z"
             },
             {
               "$type": "Document",
@@ -262,8 +251,7 @@
               "RelativeToolTip": "Services\\EncrytionService\\EncryptionService.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAAAwwJAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:51:35.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:51:35.802Z"
             },
             {
               "$type": "Document",
@@ -275,8 +263,7 @@
               "RelativeToolTip": "Models\\InternalModels.cs",
               "ViewState": "AgIAADQAAAAAAAAAAADwv0MAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:50:37.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:50:37.951Z"
             },
             {
               "$type": "Document",
@@ -288,8 +275,7 @@
               "RelativeToolTip": "Controllers\\ServicesController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAwwEMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:09:00.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:09:00.459Z"
             },
             {
               "$type": "Document",
@@ -301,8 +287,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-26T22:47:41.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:47:41.188Z"
             },
             {
               "$type": "Document",
