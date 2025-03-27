@@ -254,7 +254,7 @@ ng serve     # Start frontend server
 
 ## 🛠️ Tech Stack
 
-- **Backend:** .NET Web API, SQL Server
+- **Backend:** C# .NET Web API, SQL Server
 - **Frontend:** Angular
 - **Database:** Stored Procedures, SQL Tables
 
