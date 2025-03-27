@@ -6,9 +6,6 @@ This project includes a **Database implementation** with stored procedures and a
 
 - Database setup with **stored procedures** and **tables**.
 - Web API development with **NuGet package management**.
----
-
-## 🔧 Installation & Setup
 
 ### 1️⃣ Database Setup
 
@@ -29,7 +26,7 @@ This project includes a **Database implementation** with stored procedures and a
 
 ---
 
-## 🔄 Code Changes & Enhancements
+## 🔄 Code Changes
 
 ### 📌 **ServiceController.cs**
 
@@ -230,14 +227,13 @@ _result.Message = $"DecryptUserToken(): Exception: {ex}";
 ```
 
 ---
-
-1️⃣ **Start the Web API:**
+1️⃣ **Running Web API:**
 
 ```sh
 dotnet run
 ```
 
-2️⃣ **Run the Angular WebApp:**
+2️⃣ **Running Angular WebApp:**
 
 ```sh
 cd webapp
@@ -254,8 +250,10 @@ ng serve     # Start frontend server
 
 ## 🛠️ Tech Stack
 
-- **Backend:** .NET Web API, SQL Server
+- **Backend:** C# .NET Web API, SQL Server
 - **Frontend:** Angular
 - **Database:** Stored Procedures, SQL Tables
+---
+
 
 
