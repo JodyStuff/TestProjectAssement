@@ -258,13 +258,4 @@ ng serve     # Start frontend server
 - **Frontend:** Angular
 - **Database:** Stored Procedures, SQL Tables
 
----
-
-## 📜 License
-
-This project is licensed under [MIT License](LICENSE).
-
----
-
-### 🚀 Happy Coding! 🎯
 
