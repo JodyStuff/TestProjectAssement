@@ -9,6 +9,7 @@ This project includes a **Database implementation** with stored procedures and a
 
 ### 1️⃣ Database Setup
 
+- **Created Database**
 - **Created tables** for user data.
 - **Implemented stored procedures** for database operations.
 
